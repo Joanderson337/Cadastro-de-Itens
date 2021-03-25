@@ -1,0 +1,43 @@
+body {
+    background-color: blue;
+}
+
+.alinharRotulos {
+    text-align: right;
+}
+
+.alinhaBtns {
+    width: 30%;
+    background-color: rgb(67, 179, 23);
+    color: white;
+    border: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.carrinho {
+    width: 300px;
+    float: right;
+    color: rgb(248, 238, 239);
+}
+
+.carrinho p {
+    display: inline;
+}
+
+table {
+    clear: both;
+    background-color: rgb(170, 10, 10);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+}
+
+caption {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+}
